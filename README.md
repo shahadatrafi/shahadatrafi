@@ -6,9 +6,10 @@ Welcome to my GitHub profile! I'm Shahadat Hossen Rafi, a passionate web develop
 
 ## About Me
 
-- 🌐 **Portfolio**: [Your Portfolio Website URL](https://www.yourwebsite.com)
+- 🌐 **Portfolio**: [Portfolio Website URL](https://dev-shahadat-rafi.pantheonsite.io/)
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shahadatrafi/)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: mdshahadathossenrafi@gmail.com
+- 📞 **Phone**: +8801690003722
 
 
 ## Skills
@@ -23,9 +24,9 @@ Welcome to my GitHub profile! I'm Shahadat Hossen Rafi, a passionate web develop
 
 Here are some of the projects I've worked on:
 
-- [Sound Wave - An Online Music Learning App](https://soundwave-e8dde.web.app/)
-- [Turbo Toys - Toy Marketplace App](https://turbo-toys.web.app/)
-- [Heros Recipe - A Recipe Showcase App](https://heros-recipe.web.app/)
+✅ [Sound Wave - An Online Music Learning App](https://soundwave-e8dde.web.app/)
+✅ [Turbo Toys - Toy Marketplace App](https://turbo-toys.web.app/)
+✅ [Heros Recipe - A Recipe Showcase App](https://heros-recipe.web.app/)
 
 Feel free to explore these repositories for more details.
 
