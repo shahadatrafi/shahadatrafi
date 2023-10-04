@@ -10,13 +10,8 @@ Welcome to my GitHub profile! I'm Shahadat Hossen Rafi, a passionate web develop
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shahadatrafi/)
 - 📧 **Email**: your.email@example.com
 
-## GitHub Profile Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ## Skills
-
-### Expertise
 
 - **Frontend**: React.js, Daisy-UI, Bootstrap, Tailwind, Material-UI, Context API
 - **Backend**: JavaScript, Redux, TypeScript, Express JS, Node, MongoDB, Authentication
@@ -34,12 +29,6 @@ Here are some of the projects I've worked on:
 
 Feel free to explore these repositories for more details.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahadatrafi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahadatrafi&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/shahadatrafi)  
-
 ![Profile views](https://gpvc.arturio.dev/shahadatrafi)  
 
 I'm actively freelancing on Upwork, Fiverr, and Freelancer.com, delivering web development solutions and providing top-notch service to clients. If you have any questions, want to collaborate on a project, or just want to chat, feel free to reach out to me. I'm looking forward to connecting with you!
@@ -49,10 +38,10 @@ I'm actively freelancing on Upwork, Fiverr, and Freelancer.com, delivering web d
 You can connect with me on social media:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahadatrafi)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shahadatrafi//)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ShahadatRafi0)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shahadatrafi0/)  
+[<img style="color:#fff;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahadatrafi)  
+[<img style="color:#fff;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shahadatrafi//)  
+[<img style="color:#fff;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ShahadatRafi0)  
+[<img style="color:#fff;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shahadatrafi0/)  
 
 
 
