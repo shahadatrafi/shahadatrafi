@@ -30,7 +30,6 @@ Here are some of the projects I've worked on:
 
 Feel free to explore these repositories for more details.
 
-![Profile views](https://gpvc.arturio.dev/shahadatrafi)  
 
 I'm actively freelancing on Upwork, Fiverr, and Freelancer.com, delivering web development solutions and providing top-notch service to clients. If you have any questions, want to collaborate on a project, or just want to chat, feel free to reach out to me. I'm looking forward to connecting with you!
 
